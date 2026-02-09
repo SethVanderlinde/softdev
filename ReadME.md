@@ -1,0 +1,3 @@
+This resume is created for Kratos the god of war in the god fo war games. Truth be told kratos isn't actually the greek god of war that is Ares however in these game he is the god of war
+I did this because it is very interesting to me
+I first started with the main part of the page, the lists and and H2's in the resume creating the sections for each thing to keep it separet from the rest. Later moving to the image to create the first draft of the code.
